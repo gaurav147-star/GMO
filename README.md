@@ -32,7 +32,7 @@ I have followed the submission steps as instructed:
 2. I deployed the application using a hosting provider.
 3. Here are the URLs for my submission:
    - GitHub URL: [GitHub Repository](https://github.com/gaurav147-star/GMO)
-   - Deployed Application URL: [Deployed Application](insert_deployed_url_here)
+   - Deployed Application URL: [Deployed Application](https://gmo-gaurav.netlify.app/)
 
 ## Conclusion
 

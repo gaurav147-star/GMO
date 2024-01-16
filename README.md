@@ -28,10 +28,10 @@ I have deployed the completed application to a hosting provider. You can access 
 
 I have followed the submission steps as instructed:
 
-1. I pushed the code to a GitHub repository: [GitHub Repository](insert_github_url_here).
+1. I pushed the code to a GitHub repository: [GitHub Repository](https://github.com/gaurav147-star/GMO).
 2. I deployed the application using a hosting provider.
 3. Here are the URLs for my submission:
-   - GitHub URL: [GitHub Repository](insert_github_url_here)
+   - GitHub URL: [GitHub Repository](https://github.com/gaurav147-star/GMO)
    - Deployed Application URL: [Deployed Application](insert_deployed_url_here)
 
 ## Conclusion
